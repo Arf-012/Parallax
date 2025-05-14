@@ -33,15 +33,15 @@ header {
 }
 
 .bg1 {
-  background-image: url("/parallax-website/images-parallax/nasa-Q1p7bh3SHj8-unsplash.jpg");
+  background-image: url("nasa-Q1p7bh3SHj8-unsplash.jpg");
 }
 
 .bg2 {
-  background-image: url("/parallax-website/images-parallax/Terminal\ Background.jpg");
+  background-image: url("Terminal\ Background.jpg");
 }
 
 .bg3 {
-  background-image: url("/parallax-website/images-parallax/Teamwork\ Background.jpg");
+  background-image: url("Teamwork\ Background.jpg");
 }
 
 .content {
